@@ -1,8 +1,7 @@
-# Digitalsterne Cookie Master
-
 <p align="center">
   <img src="https://cdn.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_300,h_152/https://digitalsterne.de/wp-content/uploads/2020/11/digitalsterne_cookie_master-300x152.png">
 </p>
+<h1 align="center">Digitalsterne Cookie Master</h1>
 
 Official repository of the Digitalsterne Cookie Master - the GDPR Consent Solution.
 
