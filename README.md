@@ -1,5 +1,9 @@
 # Digitalsterne Cookie Master
 
+<p align="center">
+  <img src="https://cdn.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_300,h_152/https://digitalsterne.de/wp-content/uploads/2020/11/digitalsterne_cookie_master-300x152.png">
+</p>
+
 Official repository of the Digitalsterne Cookie Master - the GDPR Consent Solution.
 
 A restart for the cookie consent systems. The digital star Cookie Master is breaking new ground to create a fantastic visual experience for users and to guarantee data security for advertisers.
