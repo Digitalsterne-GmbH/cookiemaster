@@ -1,6 +1,9 @@
 homepage: "https://www.digitalsterne.de"
 documentation: "https://wiki.digitalsterne.de/docs/cookie-master/"
 versions:
+  # Version 1.0.2
+  - sha: 0d76e3c1ce8a9c4189caadf749a2168b54ac2204
+    changeNotes: Update of text content
   # Version 1.0.1
   - sha: e35d06016ed82c36bef9e77e5b1218a03abe8c13
     changeNotes: Added support for two languages (German and English)
