@@ -896,7 +896,7 @@ setInWindow('DSCOOKIE', {
   "dic" : {
     "de" : {
       "headline" : insert(data.content_de_main_headline, "Diese Webseite verwendet Cookies"),
-      "description" : insert(data.content_de_main_description, "Wir verwenden Cookies, um Inhalte und Anzeigen zu personalisieren, Funktionen für soziale Medien anbieten zu können und die Zugriffe auf unsere Website zu analysieren. Außerdem geben wir Informationen zu Ihrer Verwendung unserer Website an unsere Partner für soziale Medien, Werbung und Analysen weiter. Unsere Partner führen diese Informationen möglicherweise mit weiteren Daten zusammen, die Sie ihnen bereitgestellt haben oder die sie im Rahmen Ihrer Nutzung der Dienste gesammelt haben."),
+      "description" : insert(data.content_de_main_description, "Wir verwenden Cookies um Funktionen anbieten zu können und die Zugriffe auf unsere Website zu analysieren. Darüber hinaus erhalten unsere Partner für soziale Medien, Werbung und Analysen Informationen zur Verwendung unserer Website."),
       "details_link" : {
         "hidden" : insert(data.content_de_main_more, "Mehr Details einblenden"),
         "visible" : insert(data.content_de_main_less, "Details ausblenden")
@@ -905,22 +905,22 @@ setInWindow('DSCOOKIE', {
         "necessary" : {
           "title" : insert(data.content_de_necessary_label, "Notwendig"),
           "headline" : insert(data.content_de_necessary_headline, "Notwendige Cookies"),
-          "description" : insert(data.content_de_necessary_description, "Notwendige Cookies helfen dabei, eine Webseite nutzbar zu machen, indem sie Grundfunktionen wie Seitennavigation und Zugriff auf sichere Bereiche der Webseite ermöglichen. Die Webseite kann ohne diese Cookies nicht richtig funktionieren.")
+          "description" : insert(data.content_de_necessary_description, "Notwendige Cookies werden genutzt um unsere Webseite nutzbar zu machen. Grundfunktionen wie z.B. der Zugriff auf sichere Bereiche der Webseite werden so ermöglicht. Ohne diese Cookies kann unsere Website nicht funktionieren.")
         },
         "preferences" : {
           "title" : insert(data.content_de_preferences_label, "Präferenzen"),
           "headline" : insert(data.content_de_preferences_headline, "Präferenzen Cookies"),
-          "description" : insert(data.content_de_preferences_description, "Präferenz-Cookies ermöglichen einer Webseite sich an Informationen zu erinnern, die die Art beeinflussen, wie sich eine Webseite verhält oder aussieht, wie z. B. Ihre bevorzugte Sprache oder die Region in der Sie sich befinden.")
+          "description" : insert(data.content_de_preferences_description, "Präferenz-Cookies sorgen dafür, dass wir Nutzer-Einstellungen auf unserer Webseite speichern können. Das betrifft zum Beispiel die Art wie sich unsere Webseite verhält/aussieht oder Ihre bevorzugte Sprache.")
         },
         "statistics" : {
           "title" : insert(data.content_de_statistics_label, "Statistik"),
           "headline" : insert(data.content_de_statistics_headline, "Statistik Cookies"),
-          "description" : insert(data.content_de_statistics_description, "Statistik-Cookies helfen Webseiten-Besitzern zu verstehen, wie Besucher mit Webseiten interagieren, indem Informationen anonym gesammelt und gemeldet werden.")
+          "description" : insert(data.content_de_statistics_description, "Statistik-Cookies uns zu verstehen, wie Besucher mit unserer Webseite interagieren, indem Informationen anonym gesammelt und gemeldet werden. Das hilft uns dabei unser Webangebot konstant weiterzuentwickeln und zu verbessern.")
         },
         "marketing" : {
           "title" : insert(data.content_marketing_label, "Marketing"),
           "headline" : insert(data.content_marketing_headline, "Marketing Cookies"),
-          "description" : insert(data.content_de_marketing_description, "Marketing-Cookies werden verwendet, um Besuchern auf Webseiten zu folgen. Die Absicht ist, Anzeigen zu zeigen, die relevant und ansprechend für den einzelnen Benutzer sind und daher wertvoller für Publisher und werbetreibende Drittparteien sind.")
+          "description" : insert(data.content_de_marketing_description, "Marketing-Cookies werden von uns verwendet, um Besuchern auf Webseiten zu folgen. Dadurch können wir Anzeigen zeigen, die relevant und ansprechend für Sie sind.")
         }
       },
       "buttons" : {
@@ -932,7 +932,7 @@ setInWindow('DSCOOKIE', {
     },
     "en" : {
       "headline" : insert(data.content_en_main_headline, "This website uses cookies"),
-      "description" : insert(data.content_en_main_description, "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services."),
+      "description" : insert(data.content_en_main_description, "We use cookies to be able to offer functions and to analyze access to our website. In addition, our partners for social media, advertising and analysis receive information about the use of our website."),
       "details_link" : {
         "hidden" : insert(data.content_en_main_more, "More details"),
         "visible" : insert(data.content_en_main_less, "Less details")
@@ -941,22 +941,22 @@ setInWindow('DSCOOKIE', {
         "necessary" : {
           "title" : insert(data.content_en_necessary_label, "Necessary"),
           "headline" : insert(data.content_en_necessary_headline, "Necessary"),
-          "description" : insert(data.content_en_necessary_description, "Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.")
+          "description" : insert(data.content_en_necessary_description, "Necessary cookies are used to make our website usable. Basic functions such as This enables access to secure areas of the website. Our website cannot function without these cookies.")
         },
         "preferences" : {
           "title" : insert(data.content_en_preferences_label, "Preferences"),
           "headline" : insert(data.content_en_preferences_headline, "Preferences"),
-          "description" : insert(data.content_en_preferences_description, "Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.")
+          "description" : insert(data.content_en_preferences_description, "Preference cookies ensure that we can save user settings on our website. This concerns, for example, the way our website behaves / looks or your preferred language.")
         },
         "statistics" : {
           "title" : insert(data.content_en_statistics_label, "Statistic"),
           "headline" : insert(data.content_en_statistics_headline, "Statistic"),
-          "description" : insert(data.content_en_statistics_description, "Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.")
+          "description" : insert(data.content_en_statistics_description, "Statistics cookies allow us to understand how visitors interact with our website by collecting and reporting information anonymously. This helps us to constantly develop and improve our website.")
         },
         "marketing" : {
           "title" : insert(data.content_en_marketing_label, "Marketing"),
           "headline" : insert(data.content_en_marketing_headline, "Marketing Cookies"),
-          "description" : insert(data.content_en_marketing_description, "Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.")
+          "description" : insert(data.content_en_marketing_description, "Marketing cookies are used by us to follow visitors on websites. This enables us to show ads that are relevant and engaging to you.")
         }
       },
       "buttons" : {
