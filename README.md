@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_300,h_152/https://digitalsterne.de/wp-content/uploads/2020/11/digitalsterne_cookie_master-300x152.png">
+  <img src="https://digitalsterne.de/wp-content/uploads/2021/05/digitalsterne_cookie_master.png">
 </p>
 
 Official repository of the Digitalsterne Cookie Master - the GDPR Consent Solution.
